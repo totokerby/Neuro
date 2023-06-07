@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"type":"file","file":"Neuro/Administración/Capítulo IX - La gestión de la estructura organizativa.md","id":"0683972e977ec0c1","x":-440,"y":-240,"width":460,"height":420},
+		{"type":"file","file":"Neuro/Administración/Capítulo XI - Comités, grupos y equipos.md","id":"5fe05f967092302b","x":580,"y":-240,"width":460,"height":420},
+		{"type":"file","file":"Neuro/Administración/Capítulo XII - Administración del cambio y de la innovación.md","id":"b0e52339aa898a3c","x":80,"y":-240,"width":460,"height":420},
+		{"type":"text","text":"UNIDAD V - ORGANIZACIÓN Y ESTRUCTURA","id":"45777984f9a6be50","x":105,"y":-420,"width":410,"height":50},
+		{"id":"17b8481c3858cc95","x":-695,"y":460,"width":460,"height":420,"type":"file","file":"Neuro/Administración/Capítulo X - Administración de recursos humanos.md"},
+		{"id":"6363cbe66c73728f","x":-175,"y":460,"width":460,"height":420,"type":"file","file":"Neuro/Administración/Capítulo XIII - El comportamiento individual y la motivación.md"},
+		{"id":"b8ed6ba8b79b6744","x":325,"y":460,"width":460,"height":420,"type":"file","file":"Neuro/Administración/Capítulo XIV - Los líderes en las organizaciones.md"},
+		{"id":"90b9a23ad30d94f0","x":825,"y":460,"width":460,"height":420,"type":"file","file":"Neuro/Administración/Capítulo XV - La comunicación en las organizaciones.md"},
+		{"type":"text","text":"UNIDAD VI - Dirección y liderazgo","id":"afa0c80d6f47c3f4","x":105,"y":240,"width":410,"height":50}
+	],
+	"edges":[
+		{"id":"cfb8dd14df906642","fromNode":"45777984f9a6be50","fromSide":"bottom","toNode":"5fe05f967092302b","toSide":"top"},
+		{"id":"9feb666df0c1299a","fromNode":"45777984f9a6be50","fromSide":"bottom","toNode":"0683972e977ec0c1","toSide":"top"},
+		{"id":"8042250f9f33a4c4","fromNode":"45777984f9a6be50","fromSide":"bottom","toNode":"b0e52339aa898a3c","toSide":"top"},
+		{"id":"ccb17845d373e1d0","fromNode":"17b8481c3858cc95","fromSide":"right","toNode":"6363cbe66c73728f","toSide":"left"},
+		{"id":"58a7af2faf7a7c3a","fromNode":"6363cbe66c73728f","fromSide":"right","toNode":"b8ed6ba8b79b6744","toSide":"left"},
+		{"id":"7a34d1c4e0085a91","fromNode":"b8ed6ba8b79b6744","fromSide":"right","toNode":"90b9a23ad30d94f0","toSide":"left"},
+		{"id":"8bc09f7c56248586","fromNode":"0683972e977ec0c1","fromSide":"right","toNode":"b0e52339aa898a3c","toSide":"left"},
+		{"id":"24d5f2bb2ff4765d","fromNode":"b0e52339aa898a3c","fromSide":"right","toNode":"5fe05f967092302b","toSide":"left"},
+		{"id":"892c7d1eddfcc152","fromNode":"afa0c80d6f47c3f4","fromSide":"bottom","toNode":"17b8481c3858cc95","toSide":"top"},
+		{"id":"b68a499b3e32ebcf","fromNode":"afa0c80d6f47c3f4","fromSide":"bottom","toNode":"6363cbe66c73728f","toSide":"top"},
+		{"id":"f82f11d3eb23c8a3","fromNode":"afa0c80d6f47c3f4","fromSide":"bottom","toNode":"b8ed6ba8b79b6744","toSide":"top"},
+		{"id":"2a02ec9c1ff46b21","fromNode":"afa0c80d6f47c3f4","fromSide":"bottom","toNode":"90b9a23ad30d94f0","toSide":"top"}
+	]
+}
