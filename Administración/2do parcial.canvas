@@ -4,11 +4,13 @@
 		{"type":"file","file":"Neuro/Administración/Capítulo XI - Comités, grupos y equipos.md","id":"5fe05f967092302b","x":580,"y":-240,"width":460,"height":420},
 		{"type":"file","file":"Neuro/Administración/Capítulo XII - Administración del cambio y de la innovación.md","id":"b0e52339aa898a3c","x":80,"y":-240,"width":460,"height":420},
 		{"type":"text","text":"UNIDAD V - ORGANIZACIÓN Y ESTRUCTURA","id":"45777984f9a6be50","x":105,"y":-420,"width":410,"height":50},
-		{"id":"17b8481c3858cc95","x":-695,"y":460,"width":460,"height":420,"type":"file","file":"Neuro/Administración/Capítulo X - Administración de recursos humanos.md"},
-		{"id":"6363cbe66c73728f","x":-175,"y":460,"width":460,"height":420,"type":"file","file":"Neuro/Administración/Capítulo XIII - El comportamiento individual y la motivación.md"},
-		{"id":"b8ed6ba8b79b6744","x":325,"y":460,"width":460,"height":420,"type":"file","file":"Neuro/Administración/Capítulo XIV - Los líderes en las organizaciones.md"},
-		{"id":"90b9a23ad30d94f0","x":825,"y":460,"width":460,"height":420,"type":"file","file":"Neuro/Administración/Capítulo XV - La comunicación en las organizaciones.md"},
-		{"type":"text","text":"UNIDAD VI - Dirección y liderazgo","id":"afa0c80d6f47c3f4","x":105,"y":240,"width":410,"height":50}
+		{"type":"file","file":"Neuro/Administración/Capítulo X - Administración de recursos humanos.md","id":"17b8481c3858cc95","x":-695,"y":460,"width":460,"height":420},
+		{"type":"file","file":"Neuro/Administración/Capítulo XIII - El comportamiento individual y la motivación.md","id":"6363cbe66c73728f","x":-175,"y":460,"width":460,"height":420},
+		{"type":"file","file":"Neuro/Administración/Capítulo XIV - Los líderes en las organizaciones.md","id":"b8ed6ba8b79b6744","x":325,"y":460,"width":460,"height":420},
+		{"type":"file","file":"Neuro/Administración/Capítulo XV - La comunicación en las organizaciones.md","id":"90b9a23ad30d94f0","x":825,"y":460,"width":460,"height":420},
+		{"type":"text","text":"UNIDAD VI - Dirección y liderazgo","id":"afa0c80d6f47c3f4","x":105,"y":240,"width":410,"height":50},
+		{"type":"text","text":"UNIDAD VII - Control ","id":"037550730fe5538d","x":105,"y":1000,"width":410,"height":50},
+		{"id":"3ffa42bbae6a88e0","x":80,"y":1160,"width":460,"height":420,"type":"file","file":"Neuro/Administración/Capítulo XVI - Control, procesos y técnicas.md"}
 	],
 	"edges":[
 		{"id":"cfb8dd14df906642","fromNode":"45777984f9a6be50","fromSide":"bottom","toNode":"5fe05f967092302b","toSide":"top"},
@@ -22,6 +24,7 @@
 		{"id":"892c7d1eddfcc152","fromNode":"afa0c80d6f47c3f4","fromSide":"bottom","toNode":"17b8481c3858cc95","toSide":"top"},
 		{"id":"b68a499b3e32ebcf","fromNode":"afa0c80d6f47c3f4","fromSide":"bottom","toNode":"6363cbe66c73728f","toSide":"top"},
 		{"id":"f82f11d3eb23c8a3","fromNode":"afa0c80d6f47c3f4","fromSide":"bottom","toNode":"b8ed6ba8b79b6744","toSide":"top"},
-		{"id":"2a02ec9c1ff46b21","fromNode":"afa0c80d6f47c3f4","fromSide":"bottom","toNode":"90b9a23ad30d94f0","toSide":"top"}
+		{"id":"2a02ec9c1ff46b21","fromNode":"afa0c80d6f47c3f4","fromSide":"bottom","toNode":"90b9a23ad30d94f0","toSide":"top"},
+		{"id":"44d0ab2de9193584","fromNode":"037550730fe5538d","fromSide":"bottom","toNode":"3ffa42bbae6a88e0","toSide":"top"}
 	]
 }
