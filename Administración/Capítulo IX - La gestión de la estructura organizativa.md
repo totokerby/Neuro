@@ -76,7 +76,7 @@ Carecen de reconocimiento oficial.
 *Negativos*
 - Acentúan la resistencia al cambio
 - Puede generar contraposición de intereses
-- Rumores
+- Rumores [[Capítulo XV - La comunicación en las organizaciones]]
 
 ![[Pasted image 20230602175411.png]]
 
@@ -95,7 +95,7 @@ En el organigrama se observan las características principales de la organizaci�
 	- Denominación específica de cada elemento
 	- Niveles y posiciones de autoridad, relaciones jerárquicas, responsabilidades
 	- Carácter funcional, actividad y unidad de mando
-	- Canales de comunicación
+	- Canales de comunicación [[Capítulo XV - La comunicación en las organizaciones]]
 	- Debe ser sencillo y de fácil comprensión
 
 - **Tipos de organigramas** pág. 257
