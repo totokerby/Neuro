@@ -279,8 +279,12 @@
 		{"type":"text","text":"La tasa instantánea de\ncambio nos permite\nAPROXIMAR el\ncambio real para\ncuando ∆𝑥 = 1.\nEn el resto de los\ncasos, es posible\ncalcular el error lineal\npor aproximación,\npero en vez de utilizar\nla tasa instantánea de\ncambio, deberemos\ncalcular el 𝑑𝑦.","id":"9170d4be61272b5f","x":-5593,"y":-1014,"width":250,"height":355},
 		{"type":"text","text":"|e| = |△y - dy| ","id":"3181a8888c516467","x":-5061,"y":-650,"width":152,"height":60},
 		{"type":"file","file":"Neuro/Adjuntos/Pasted image 20230611012516.png","id":"83363899ac5f6aa9","x":-5593,"y":-640,"width":400,"height":340},
+<<<<<<< Updated upstream
 		{"type":"file","file":"Neuro/Adjuntos/Pasted image 20230611012533.png","id":"f3315df1382e2efb","x":-5593,"y":-264,"width":399,"height":187},
 		{"type":"file","file":"Neuro/Adjuntos/Pasted image 20230611012346.png","id":"a13cc5874e96c11d","x":-4642,"y":-287,"width":400,"height":210}
+=======
+		{"type":"file","file":"Neuro/Adjuntos/Pasted image 20230611012533.png","id":"f3315df1382e2efb","x":-5593,"y":-264,"width":399,"height":187}
+>>>>>>> Stashed changes
 	],
 	"edges":[
 		{"id":"9acc21419fe4583e","fromNode":"0af23db6a6624501","fromSide":"right","toNode":"e9d1a67e2944f192","toSide":"left"},
