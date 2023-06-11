@@ -98,7 +98,7 @@ Algunas razones
 - Perspectiva de aprendizaje, innovación y desarrollo: Busca crear valor a largo plazo y encontrar vías para la flexibilidad y la mejora continua.
 
 Estas cuatro pespectivas están relacionadas entre sí. 
-![[Pasted image 20230607005743.png]]
+![[a.png]]
 
 
 ## Benchmarking de las mejores prácticas
