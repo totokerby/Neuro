@@ -205,7 +205,7 @@
 		{"type":"text","text":"Para poder **medir la rapidez de cambio** de una variable con\nrespecto a la otra, tendremos que referirnos a lo que varía “𝑦” con relación\na la variación de “𝑥”, es decir, deberemos analizar las **VARIACIONES\nRELATIVAS**","id":"e9d1a67e2944f192","x":-20,"y":-2626,"width":298,"height":267},
 		{"type":"text","text":"**cociente incremental △y/△x**","id":"8a29fd23de7da124","x":340,"y":-2239,"width":250,"height":60},
 		{"type":"text","text":"Geométricamente la 𝑻. 𝑽. de una función es la pendiente de\nla recta tangente y mide el cambio instantáneo de la función en el\npunto 𝑥 = 𝑥0.","id":"6802fd949290d7d4","x":-1740,"y":-1366,"width":250,"height":234},
-		{"type":"text","text":"Análisis Marginal","id":"8c6e011ad54a5bc4","x":-2774,"y":-3069,"width":250,"height":60},
+		{"type":"text","text":"## Análisis Marginal","id":"8c6e011ad54a5bc4","x":-2774,"y":-3069,"width":250,"height":60},
 		{"type":"text","text":"Estudia el cambio que se produce en la variable Dependiente por CADA UNIDAD ADICIONAL que se considera en la variable Independiente. Este cambio en Matemática lo aproxima la Derivada de la Función que estamos analizando","id":"0da202101040b797","x":-2870,"y":-3312,"width":441,"height":144},
 		{"type":"text","text":"En términos económicos, el análisis marginal nos brinda información sobre el aporte de cada producto, servicio o cliente, etc. a los rendimientos de la Empresa","id":"ee65cd9d0bccd165","x":-2649,"y":-3971,"width":270,"height":260},
 		{"type":"text","text":"En términos matemáticos el Análisis Marginal se interesa por estudiar el comportamiento de la variable dependiente(𝑦) cuando se incrementa en una unidad la variable independiente (𝑥).","id":"71e57220ebf41ecb","x":-2857,"y":-3774,"width":257,"height":254},
@@ -275,16 +275,12 @@
 		{"type":"text","text":"Si la función es **convexa**, el diferencial de la función es **menor** al incremento de la función","id":"02baa1943f37ae52","x":-4657,"y":-497,"width":277,"height":137},
 		{"type":"text","text":"Si la función es **cóncava**, el diferencial de la función es **mayor** al incremento de la función.","id":"22cb3d71950065d5","x":-4960,"y":-497,"width":303,"height":102},
 		{"type":"file","file":"Neuro/Adjuntos/Pasted image 20230611012329.png","id":"4f71e86830ca1eb7","x":-5042,"y":-300,"width":399,"height":216},
+		{"type":"file","file":"Neuro/Adjuntos/Pasted image 20230611012346.png","id":"a13cc5874e96c11d","x":-4642,"y":-300,"width":400,"height":210},
 		{"type":"text","text":"## Error de Aproximación","id":"fea426050f00751a","x":-5247,"y":-797,"width":338,"height":75},
 		{"type":"text","text":"La tasa instantánea de\ncambio nos permite\nAPROXIMAR el\ncambio real para\ncuando ∆𝑥 = 1.\nEn el resto de los\ncasos, es posible\ncalcular el error lineal\npor aproximación,\npero en vez de utilizar\nla tasa instantánea de\ncambio, deberemos\ncalcular el 𝑑𝑦.","id":"9170d4be61272b5f","x":-5593,"y":-1014,"width":250,"height":355},
 		{"type":"text","text":"|e| = |△y - dy| ","id":"3181a8888c516467","x":-5061,"y":-650,"width":152,"height":60},
 		{"type":"file","file":"Neuro/Adjuntos/Pasted image 20230611012516.png","id":"83363899ac5f6aa9","x":-5593,"y":-640,"width":400,"height":340},
-<<<<<<< Updated upstream
-		{"type":"file","file":"Neuro/Adjuntos/Pasted image 20230611012533.png","id":"f3315df1382e2efb","x":-5593,"y":-264,"width":399,"height":187},
-		{"type":"file","file":"Neuro/Adjuntos/Pasted image 20230611012346.png","id":"a13cc5874e96c11d","x":-4642,"y":-287,"width":400,"height":210}
-=======
 		{"type":"file","file":"Neuro/Adjuntos/Pasted image 20230611012533.png","id":"f3315df1382e2efb","x":-5593,"y":-264,"width":399,"height":187}
->>>>>>> Stashed changes
 	],
 	"edges":[
 		{"id":"9acc21419fe4583e","fromNode":"0af23db6a6624501","fromSide":"right","toNode":"e9d1a67e2944f192","toSide":"left"},
